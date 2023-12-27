@@ -1,4 +1,4 @@
-# EFI.ASUS.MAXIMUS.Hero.XI.ROG.WIFI.Saphhire.RX580.8GB.Crucical.64GB.DDR4.NATIVE.INTEL.WIFI.BLUETOOTH
+# EFI.ASUS.MAXIMUS.Hero.XI.ROG.WIFI.Sapphire.RX580.8GB.Crucical.64GB.DDR4.NATIVE.INTEL.WIFI.BLUETOOTH
 
  I am self-taught, and curious in nature. To me this was a puzzle. All files found here are not mine, I am only sharing what works for me. All files are in Github or in public domain to my understanding. The files within are based on the work of all Hackintosh developers that make these files. Through their own blood, sweat, and tears surely. They are the true heroes. The samurai of the kexts, and much much more. I take no credit besides having strength in pattern recognition and understanding troubleshooting from my electrical background. This along with my understanding of technical specifications and applying them to practical use. Thank you for all your efforts, truly.
  
